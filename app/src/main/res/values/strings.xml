@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Smart Vent System</string>
+    <string name="play_with_messages">Play with ARTIK Cloud</string>
+
+    <string name="send_btn_txt">send a message</string>
+    <string name="sendmsg_response">Response </string>
+    <string name="getlatest_btn_txt">Get the latest message</string>
+    <string name="getlatest_response_mid">id </string>
+    <string name="getlatest_response_mdata">data </string>
+
+    <string name="open_btn_txt">OPEN</string>
+    <string name="close_btn_txt">CLOSE</string>
+
+    <string name="office_txt">Office</string>
+    <string name="bedroom_txt">Bedroom</string>
+    <string name="master_bedroom_txt">Master Bedroom</string>
+    <string name="bathroom_txt">Bathroom</string>
+    <string name="kitchen_txt">Kitchen</string>
+    <string name="living_room_txt">Living Room</string>
+
+</resources>
